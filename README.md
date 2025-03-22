@@ -85,15 +85,15 @@
 ## Infrastructure
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: left; align-items: center;">
     <img src="resources/infrastructure/hpe.png" alt="HPE" width="128"/>
-    <img src="resources/infrastructure/linode.svg" alt="Linode" width="64"/>
-    <img src="resources/infrastructure/aws-logo-logo.svg" alt="AWS" width="64"/>
-    <img src="resources/Terraform.png" alt="Terraform" width="64"/>
-    <img src="resources/infrastructure/packer.svg" alt="Packer" width="64"/>
-    <img src="resources/rhel-removebg-preview.png" alt="Rhex" width="64"/>
-    <img src="resources/infrastructure/nebula.png" alt="Nebula" width="64"/>
-    <img src="resources/infrastructure/nginx.svg" alt="Nginx" width="64" height="32"/>
-    <img src="resources/docker.png" alt="Docker" width="64"/>
-    <img src="resources/infrastructure/kubernetes.svg" alt="Kubernetes" width="64"/>
+    <img src="resources/infrastructure/linode.svg" alt="Linode" width="48"/>
+    <img src="resources/infrastructure/aws-logo-logo.svg" alt="AWS" width="48"/>
+    <img src="resources/Terraform.png" alt="Terraform" width="48"/>
+    <img src="resources/infrastructure/packer.svg" alt="Packer" width="48"/>
+    <img src="resources/rhel-removebg-preview.png" alt="Rhex" width="48"/>
+    <img src="resources/infrastructure/nebula.png" alt="Nebula" width="48"/>
+    <img src="resources/infrastructure/nginx.svg" alt="Nginx" width="48"/>
+    <img src="resources/docker.png" alt="Docker" width="48"/>
+    <img src="resources/infrastructure/kubernetes.svg" alt="Kubernetes" width="48"/>
 </div>
 
 
