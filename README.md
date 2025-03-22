@@ -54,7 +54,7 @@
   <img src="resources/tailwind_css.png" alt="Tailwind" width="48">
   <img src="resources/tokio.png" alt="Tokio" width="48">
   <img src="resources/snapview.png" alt="Tokio Tungsenite" width="48">
-  <img src="resources/reqwest.png" alt="Reqwest" width="128">
+  <!--<img src="resources/reqwest.png" alt="Reqwest" width="128"> -->
   <img src="resources/bash.png" alt="Bash" width="48">
   <img src="resources/c.png" alt="C++" width="48">
   <img src="resources/c_plus_plus.png" alt="C++" width="48">
