@@ -91,7 +91,7 @@
     <img src="resources/infrastructure/packer.svg" alt="Packer" width="48"/>
     <img src="resources/rhel-removebg-preview.png" alt="Rhex" width="48"/>
     <img src="resources/infrastructure/nebula.png" alt="Nebula" width="48"/>
-    <img src="resources/infrastructure/nginx.svg" alt="Nginx" width="48"/>
+    <img src="resources/infrastructure/nginx.svg" alt="Nginx" width="48" height="32"/>
     <img src="resources/docker.png" alt="Docker" width="48"/>
     <img src="resources/infrastructure/kubernetes.svg" alt="Kubernetes" width="48"/>
 </div>
